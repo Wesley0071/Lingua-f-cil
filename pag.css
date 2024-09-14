@@ -1,0 +1,39 @@
+table{
+    border: solid black 1px;
+
+}
+
+#contato{
+    width: 40vh;
+    border: solid black 1px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #e0ffff;
+    border: solid #e0ffff 5px;
+
+}
+
+body{
+    background-color: #e6e6fa;
+}
+
+nav{
+    background-color: #d8bfd8;
+}
+
+header{
+    background-color: #d8bfd8;
+    margin-left: 550px;
+    width: 45vh;
+    font-size: 30px;
+    border: solid #d8bfd8;
+    border-radius: 10px;
+}
+div#navegação{
+    margin-left: 1000px;
+    display: flex;
+
+}
+
